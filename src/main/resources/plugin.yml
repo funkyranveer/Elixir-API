@@ -1,0 +1,4 @@
+name: API
+version: '${project.version}'
+main: me.funky.api.CoreAPI
+description: API For Elixir
